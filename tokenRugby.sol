@@ -12,7 +12,7 @@ contract TokenRugby is ERC721 {
         string club;
         uint8 force;
         uint8 endurance;
-        uint8 vitesse
+        uint8 vitesse;
         string rarete;
         uint8 niveau;
         
